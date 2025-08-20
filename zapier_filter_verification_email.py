@@ -8,6 +8,8 @@ subject_verify_keywords = [
     "인증",
     "Authentication code",
     "login code",
+    "login",
+    "Log In",
     "코드",
     "Secure link",
     "로그인",
