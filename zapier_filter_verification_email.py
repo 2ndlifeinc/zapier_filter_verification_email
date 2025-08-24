@@ -10,6 +10,7 @@ subject_verify_keywords = [
     "login code",
     "login",
     "Log In",
+    "code",
     "코드",
     "Secure link",
     "로그인",
