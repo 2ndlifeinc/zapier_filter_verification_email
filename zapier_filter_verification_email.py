@@ -15,6 +15,7 @@ subject_verify_keywords = [
     "Secure link",
     "로그인",
     "보안 링크",
+    "Activate",
 ]
 subject_additional_filtering_keywords = [
     "한국전자인증",
