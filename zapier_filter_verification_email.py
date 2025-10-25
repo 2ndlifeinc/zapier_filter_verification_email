@@ -5,7 +5,7 @@ def extract_link_contents(target_html):
     links = []
     if not target_html:
         return links
-    href_links = re.findall(r'href=[\'"]?([^\'" >]+)', body_html)
+    href_links = re.findall(r'href=[\'"]?([^\'" >]+)', target_html)
     for link in href_links:
         if not re.search(r'\.(jpg|jpeg|png|gif|svg|css|ico)(\?|$)', link, re.IGNORECASE) \
                 and not '/static/' in link \
